@@ -7,6 +7,6 @@
 2. Gerber制版文件
 3. BOM表清单
 
-![image](​https://github.com/open-moss/moss-datalight-pcb/blob/master/top.png)
+![image](top.png)
 
-![image](​https://github.com/open-moss/moss-datalight-pcb/blob/master/bottom.png)
+![image](bottom.png)
